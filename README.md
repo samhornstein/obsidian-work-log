@@ -5,10 +5,10 @@ Obsidian Work Log (OWL) is an [Obsidian](https://obsidian.md/) vault template th
 1. Planning your day
 2. Organizing your notes
 3. Tracking your tasks
-## Setup
+## Installation
 1. [Download Obsidian](https://obsidian.md/download)
-2. Download [this template](https://github.com/samhornstein/obsidian-work-log) [from GitHub](https://docs.github.com/en/get-started/start-your-journey/downloading-files-from-github#downloading-a-repositorys-files)
-3. Open the downloaded template [as a vault in Obsidian](https://help.obsidian.md/vault#Open+existing+folder)
+2. [Download OWL](https://github.com/samhornstein/obsidian-work-log/archive/refs/heads/main.zip)
+3. Open the unzipped folder [as a vault in Obsidian](https://help.obsidian.md/vault#Open+existing+folder)
 ## Background
 Focusing is:
 1. Important for getting work done
