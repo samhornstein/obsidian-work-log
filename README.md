@@ -51,7 +51,7 @@ Docs provide a focused environment for documenting specific activities. OWL prov
 Tasks are managed in [Tasks](Tasks.md). They are simply checklist items, but by using Obsidian's ability to [embed links to a block in a note](https://help.obsidian.md/links#Link+to+a+block+in+a+note), they become a powerful single source of truth for tracking tasks across your vault.
 
 For example, toggle the checkbox in the embedded link below and observe how this change is reflected in [Tasks](Tasks.md):
-![](Tasks.md#^00f181)
+![Leave Earth](Tasks.md#^00f181)
 
 By embedding links to tasks throughout your vault, you ensure updates propagate across all files.
 
