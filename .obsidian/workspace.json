@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "README.md",
+                "file": "daily-notes/2025-10-14.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "README"
+              "title": "2025-10-14"
             }
           }
         ]
@@ -171,14 +171,14 @@
   },
   "active": "331c879498aa89d0",
   "lastOpenFiles": [
+    "docs/Major milestone.md",
+    "docs/The Answer to the Ultimate Question of Life, the Universe, and Everything.md",
     "templates/Note template.md",
+    "README.md",
+    "Tasks.md",
     "templates/Log template.md",
     "templates/Daily note template.md",
-    "docs/The Answer to the Ultimate Question of Life, the Universe, and Everything.md",
-    "docs/Major milestone.md",
-    "README.md",
     "daily-notes/2025-10-14.md",
-    "Tasks.md",
     "docs/LICENSE.md",
     "attachments/owl-logo.png",
     "docs/www.obsidian.md",
