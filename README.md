@@ -62,7 +62,7 @@ As an example, this project organizes [Closed](Tasks.md#Closed) by year, quarter
 This project is meant to serve as a starting point. Here is a list of ideas to extend its functionality:
 1. [Templates](https://help.obsidian.md/plugins/templates)
 2. [Properties](https://help.obsidian.md/properties)
-3. [Tags](https://help.obsidian.md/tags) (for example #the-answer and #super-important-project/major-milestone )
+3. [Tags](https://help.obsidian.md/tags) (OWL comes with two examples, #the-answer and #super-important-project/major-milestone )
 4. [Hotkeys](https://help.obsidian.md/hotkeys) (OWL comes with two custom hotkeys, `^D` to open today's daily note and `^T` to insert a template)
 5. [Bases](https://help.obsidian.md/bases)
 6. [Workspaces](https://help.obsidian.md/plugins/workspaces)
