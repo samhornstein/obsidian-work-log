@@ -34,13 +34,13 @@ Daily notes, for example [2025-10-14](daily-notes/2025-10-14.md), segment your d
 As an example, the [Daily note template](templates/Daily%20note%20template.md) comes with the [properties](https://help.obsidian.md/properties) **quarter**, **week** and **day-of-week** to assist with stand ups and performance reviews.
 
 You can take notes directly within a daily note:
-![[2025-10-14#9am-10am]]
+![9am-10am](daily-notes/2025-10-14.md#9am-10am)
 
 Or link to another file:
-![[2025-10-14#10am-11am]]
+![10am-11am](daily-notes/2025-10-14.md#10am-11am)
 
 You can even link to a specific header within a file:
-![[2025-10-14#11am-12pm]]
+![11am-12pm](daily-notes/2025-10-14.md#11am-12pm)
 
 In addition to planning, daily notes have the added benefit of tracking your work, useful for activities like billing and progress updates.
 ### Docs
@@ -51,7 +51,7 @@ Docs provide a focused environment for documenting specific activities. OWL prov
 Tasks are managed in [Tasks](Tasks.md). They are simply checklist items, but by using Obsidian's ability to [embed links to a block in a note](https://help.obsidian.md/links#Link+to+a+block+in+a+note), they become a powerful single source of truth for tracking tasks across your vault.
 
 For example, toggle the checkbox in the embedded link below and observe how this change is reflected in [Tasks](Tasks.md):
-![[Tasks#^00f181]]
+![](Tasks.md#^00f181)
 
 By embedding links to tasks throughout your vault, you ensure updates propagate across all files.
 
