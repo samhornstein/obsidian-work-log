@@ -11,10 +11,14 @@
             "id": "331c879498aa89d0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "New tab"
+              "title": "README"
             }
           }
         ]
@@ -167,11 +171,11 @@
   },
   "active": "331c879498aa89d0",
   "lastOpenFiles": [
+    "daily-notes/2025-10-14.md",
     "README.md",
     "Tasks.md",
     "docs/Major milestone.md",
     "docs/The Answer to the Ultimate Question of Life, the Universe, and Everything.md",
-    "daily-notes/2025-10-14.md",
     "templates/Daily note template.md",
     "templates/Note template.md",
     "templates/Log template.md",
