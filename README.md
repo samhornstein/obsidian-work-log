@@ -50,9 +50,9 @@ Tasks are managed in [Tasks](Tasks.md). They are simply checklist items, but by 
 For example, toggle the checkbox in the embedded link below and observe how this change is reflected in [Tasks](Tasks.md):
 ![Leave Earth](Tasks.md#^00f181)
 
-By embedding links to tasks throughout your vault, you ensure updates propagate across all files.
+By embedding links to tasks throughout your vault, you ensure updates propagate across files.
 
-When [Open](Tasks.md#Open) tasks are completed, they can be cut and pasted to [Closed](Tasks.md#Closed). Keeping closed tasks within [Tasks](Tasks.md) maintains any references.
+When [Open](Tasks.md#Open) tasks are completed, they can be cut and pasted to [Closed](Tasks.md#Closed). Keeping closed tasks within [Tasks](Tasks.md) maintains references.
 
 As an example, this project organizes [Closed](Tasks.md#Closed) by year, quarter and week to assist with stand ups and performance reviews.
 ## Additional ideas
